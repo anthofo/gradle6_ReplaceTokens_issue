@@ -1,0 +1,33 @@
+/classes
+/indexes
+# Eclipse
+.classpath
+.project
+.settings/
+.gwt/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+out/
+
+#Cobertura
+cobertura.ser
+
+#node
+/node_modules
+npm-debug.log
+#bower
+bower_components
+
+.gradle
+/build/
+.idea
